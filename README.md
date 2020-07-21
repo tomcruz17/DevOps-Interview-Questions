@@ -65,6 +65,17 @@ Inspired by [Front-end-Developers-Interview-Questions](https://github.com/h5bp/F
   1. **Jmeter** tests run on PERF
   1. Continuous monitoring is done through **Kibana** or **Cloudwatch**.
   1. **Slack** channel for PROD errors
+ * Advantages of DevOps?
+  * Reduced lead time
+  * Issues are caught early on
+  * We just feel more confident and secure having set of automated steps
+  * more time to do things that add value to the product
+* Most important thing about DevOps?
+  * minimize lead time without sacrificing quality
+* Most notable thing you did that involves DevOps?
+  * As DEV owner, kickstarted most services including code and pipeline
+  * Implemented several monitoring tools such as Kibana Alerts, Slack-Jenkins build integrations. 
+  * Supported PERF testing, all the while creating monitoring dashboards and adjusting scaling parameters.
 
 #### Network Questions
 
