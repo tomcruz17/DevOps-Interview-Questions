@@ -31,13 +31,40 @@ Inspired by [Front-end-Developers-Interview-Questions](https://github.com/h5bp/F
 * What does the term "DevOps" mean to you?
   * "Hard"/hands-on/SRE vs
   * "Soft"/Three Ways/Theory of Constraints/philosophy of DevOps
+    * Delivering at high-veolicity through practices and tools. 
+    * Build, Test, Release
+    * Monitor, Plan
 * Describe your experience with task management
   * Agile
   * Kanban
   * Waterfall
 * What drew you to DevOps
+  * Solution Architect goal
+  * Wanting to dive more into the infrastructure side of things
 * Describe the most challenging situation that you were faced with and how did you fix it?
+  * Perf. test of IM
+    * create monitoring resource-level dashboards and test endpoints
+    * adjust scaling parameters
 * How do you stay current?
+  * Follow a lot of tech channels in YT e.g. freeCodeCamp, Simplilearn, TechLead
+  * Often volunteer for POCs
+* DevOps vs Agile
+  * Agile focus on timeline, DevOps on Timeline, delivery model, and quality
+  * Agile feedback is from customers, DevOps feedback is from tools
+* Why do we need DevOps?
+  * customer satisfaction through reduced lead time
+  * smaller faster but quality releases means a happy customer or product owner 
+* DevOps tools you used and how you used them?
+  1. Push code to **Git**
+  1. Run **Jenkins** pipeline
+  1. Pipeline builds the code using **Gradle**
+  1. **Docker** image pushed to *ECR*
+  1. **Terraform/Cloudformation** provisions the resources
+  1. **Docker** images deployed on **ECS**
+  1. **Robot** framework tests run
+  1. **Jmeter** tests run on PERF
+  1. Continuous monitoring is done through **Kibana** or **Cloudwatch**.
+  1. **Slack** channel for PROD errors
 
 #### Network Questions
 
