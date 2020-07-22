@@ -28,6 +28,15 @@ Inspired by [Front-end-Developers-Interview-Questions](https://github.com/h5bp/F
 
 #### General Questions
 
+* Tell me about yourself and why do you want this role?
+  * Backend SWE that worked on Distrbuted Systems + APIs in the AWS platform 
+  * 4 years developing with DevOps focused teams familiar with most of the DevOps tools and practices
+  * I've always wanted to improve and automate processes in the workplace - good for DevOps - improvement in operational effciency
+  * Want a DevOps role because 
+    * more involved infrastructure so for the past 2 months I got AWS certified and learned Terraform and Python
+    * aligned with long-term goal of being a Solution Architect
+  * Mobile ads - negative connotation, solving a glaring problem for both app. developers and marketers
+  * Aki technologies is a place where I could contribute a lot using my technical skill-set and passion for automation.
 * What does the term "DevOps" mean to you?
   * "Hard"/hands-on/SRE vs
   * "Soft"/Three Ways/Theory of Constraints/philosophy of DevOps
@@ -76,6 +85,10 @@ Inspired by [Front-end-Developers-Interview-Questions](https://github.com/h5bp/F
    * As DEV owner, kickstarted most services including code and pipeline
    * Implemented several monitoring tools such as Kibana Alerts, Slack-Jenkins build integrations. 
    * Supported PERF testing, all the while creating monitoring dashboards and adjusting scaling parameters.
+* What is IAC?
+   * Represent your infrastructure as code.
+   * Allows provisioning of your infra in just a few commands
+   * Allows raipid but safe update of infra.
 
 #### Network Questions
 
